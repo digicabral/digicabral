@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **digicabral/digicabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-readme-stats.vercel.app/api?username=digicabral&hide=contribs,&show_icons=true&theme=merko)
+
+![Anurag's GitHub ](https://github-readme-stats.vercel.app/api?username=digicabral&hide=contribs,&show_icons=true&theme=merko)
