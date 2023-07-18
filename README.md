@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a TypeScript/Node.js developer passionate abou
 - TypeScript
 - Node.js
 - Express.js
-- Unit Testing (Jest)
+- Unit Testing
 - React.js
 - Oracle PL/SQL
 - Docker
